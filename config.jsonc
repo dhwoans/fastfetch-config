@@ -124,14 +124,16 @@
         //            "type": "colors"
         //        },
     ],
-  "logo":{
-    "type": "sixel",  //MSYS2 -> sixel
-    "source": "%fastfetch%/logo/creativeMode.jpg",
-    "width":30,
-    "height":20,
-    "padding": {
-        "top":4,
-        "left": 3
-    }
+    //win
+    "logo":{
+        "type": "sixel",  
+        "source": "%fastfetch%/logo/creativeMode.jpg",
+        "width":30,
+        "height":20,
+        "padding": {
+            "top":4,
+            "left": 3
+        }
+    //mac
   }
 }
