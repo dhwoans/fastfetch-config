@@ -135,5 +135,14 @@
             "left": 3
         }
     //mac
+  // "logo":{
+  //   "type": "iterm",  //MSYS2 -> sixel , macos -> iterm
+  //   "source": "~/.config/fastfetch/logo/aa.png",
+  //   "width":30,
+  //   "height":17,
+  //   "padding": {
+  //       "top":4,
+  //       "left": 3
+  //   }
   }
 }
